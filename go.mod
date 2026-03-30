@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.4.0
 	github.com/bradleyfalzon/ghinstallation/v2 v2.17.0
 	github.com/evanphx/json-patch/v5 v5.9.11
-	github.com/go-git/go-git/v5 v5.16.3
+	github.com/go-git/go-git/v5 v5.17.1
 	github.com/gobwas/glob v0.2.3
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-github/v74 v74.0.0
@@ -62,7 +62,7 @@ require (
 	github.com/bombsimon/logrusr/v2 v2.0.1 // indirect
 	github.com/caarlos0/env/v6 v6.10.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/cloudflare/circl v1.6.1 // indirect
+	github.com/cloudflare/circl v1.6.3 // indirect
 	github.com/cncf/xds/go v0.0.0-20250501225837-2ac532fd4443 // indirect
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.16.3 // indirect
@@ -79,7 +79,7 @@ require (
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
-	github.com/go-git/go-billy/v5 v5.6.2 // indirect
+	github.com/go-git/go-billy/v5 v5.8.0 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.1 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
@@ -156,15 +156,15 @@ require (
 	go.opentelemetry.io/otel/trace v1.37.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.2 // indirect
 	go.yaml.in/yaml/v4 v4.0.0-rc.2 // indirect
-	golang.org/x/crypto v0.41.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0 // indirect
-	golang.org/x/mod v0.27.0 // indirect
-	golang.org/x/net v0.43.0 // indirect
+	golang.org/x/mod v0.29.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/oauth2 v0.31.0 // indirect
-	golang.org/x/sys v0.36.0 // indirect
-	golang.org/x/text v0.29.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.12.0 // indirect
-	golang.org/x/tools v0.36.0 // indirect
+	golang.org/x/tools v0.38.0 // indirect
 	golang.org/x/tools/go/expect v0.1.1-deprecated // indirect
 	golang.org/x/vuln v1.0.4 // indirect
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
